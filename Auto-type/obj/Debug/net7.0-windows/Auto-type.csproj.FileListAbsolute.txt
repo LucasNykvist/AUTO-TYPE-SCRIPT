@@ -1,0 +1,15 @@
+C:\Users\lukep\Desktop\code\cSharp-script\Auto-type\bin\Debug\net7.0-windows\Auto-type.exe
+C:\Users\lukep\Desktop\code\cSharp-script\Auto-type\bin\Debug\net7.0-windows\Auto-type.deps.json
+C:\Users\lukep\Desktop\code\cSharp-script\Auto-type\bin\Debug\net7.0-windows\Auto-type.runtimeconfig.json
+C:\Users\lukep\Desktop\code\cSharp-script\Auto-type\bin\Debug\net7.0-windows\Auto-type.dll
+C:\Users\lukep\Desktop\code\cSharp-script\Auto-type\bin\Debug\net7.0-windows\Auto-type.pdb
+C:\Users\lukep\Desktop\code\cSharp-script\Auto-type\obj\Debug\net7.0-windows\Auto-type.csproj.AssemblyReference.cache
+C:\Users\lukep\Desktop\code\cSharp-script\Auto-type\obj\Debug\net7.0-windows\Auto-type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukep\Desktop\code\cSharp-script\Auto-type\obj\Debug\net7.0-windows\Auto-type.AssemblyInfoInputs.cache
+C:\Users\lukep\Desktop\code\cSharp-script\Auto-type\obj\Debug\net7.0-windows\Auto-type.AssemblyInfo.cs
+C:\Users\lukep\Desktop\code\cSharp-script\Auto-type\obj\Debug\net7.0-windows\Auto-type.csproj.CoreCompileInputs.cache
+C:\Users\lukep\Desktop\code\cSharp-script\Auto-type\obj\Debug\net7.0-windows\Auto-type.dll
+C:\Users\lukep\Desktop\code\cSharp-script\Auto-type\obj\Debug\net7.0-windows\refint\Auto-type.dll
+C:\Users\lukep\Desktop\code\cSharp-script\Auto-type\obj\Debug\net7.0-windows\Auto-type.pdb
+C:\Users\lukep\Desktop\code\cSharp-script\Auto-type\obj\Debug\net7.0-windows\Auto-type.genruntimeconfig.cache
+C:\Users\lukep\Desktop\code\cSharp-script\Auto-type\obj\Debug\net7.0-windows\ref\Auto-type.dll
